@@ -5,4 +5,4 @@
 - 📫 How to reach me ... <kavinxraj@gmail.com>
 
 Profile  
- `- [![LinkedIn](.resource/LinkedIn-Blue.png)](https://www.linkedin.com/in/kavinxraj)`
+ - [![LinkedIn](.resource/LinkedIn-Blue.png)](https://www.linkedin.com/in/kavinxraj)
