@@ -4,4 +4,5 @@
 - 🏗 I am learning all sorts of vlsi stuff
 - 📫 How to reach me ... <kavinxraj@gmail.com>
 
+Profile
 [![LinkedIn](.resource/LinkedIn-Blue.png)](https://www.linkedin.com/in/kavinxraj)
