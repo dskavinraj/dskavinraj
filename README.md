@@ -13,3 +13,30 @@ Mail : kavinxraj@gmail.com
  - Computer Architecture
  - RISC V
  - SoC Design
+
+## Skills
+ - Digital circuit Design, RTL Design
+ - System Verilog, Verilog
+ - Synthesis, Equivalence Checking
+ - Basics of UPF and SDC
+ - Low Power Design
+ - Static Timing Analysis
+ - RTL-to-GDS flow
+ - Perl / Tcl Scripting
+ - Bash/Csh Linux Shell
+ - Finite State Machine Design
+ - Computer Architecture
+ - Computer Hardware
+
+## EDA Tool Experience
+ - Simulation
+   - vcs
+   - xcelium
+ - Synthesis
+   - fusion compiler
+   - genus
+ - Static Checks ( Lint | CDC )
+   - Spyglass
+ - General
+   - git
+   - vim
