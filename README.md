@@ -36,7 +36,7 @@ Mail : kavinxraj@gmail.com
    - fusion compiler
    - genus
  - Static Checks ( Lint | CDC )
-   - Spyglass
+   - spyglass
  - General
    - git
    - vim
