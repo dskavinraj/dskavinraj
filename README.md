@@ -37,6 +37,8 @@ Mail : kavinxraj@gmail.com
    - genus
  - Static Checks ( Lint | CDC )
    - spyglass
+ - Equivalence Checking
+   - conformal
  - General
    - git
    - vim
