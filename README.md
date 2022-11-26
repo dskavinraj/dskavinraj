@@ -22,7 +22,7 @@ Mail : kavinxraj@gmail.com
  - Low Power Design
  - Static Timing Analysis
  - RTL-to-GDS flow
- - Perl / Tcl Scripting
+ - Perl / Python / Tcl Scripting
  - Bash/Csh Linux Shell
  - Finite State Machine Design
  - Computer Architecture
