@@ -1,5 +1,5 @@
 # Kavin Raj Dennis
-### RTL Design Engineer
+### Digital Design Engineer @ Texas Instruments
 
 ## Profile
  - [LinkedIn](https://www.linkedin.com/in/kavinxraj)
@@ -37,8 +37,14 @@ Mail : kavinxraj@gmail.com
    - genus
  - Static Checks ( Lint | CDC )
    - spyglass
+   - jaspergold
  - Equivalence Checking
    - conformal
+ - Physical Design
+   - innovus
+   - virtuoso
+ - Timing 
+   - tempus 
  - General
    - git
    - vim
